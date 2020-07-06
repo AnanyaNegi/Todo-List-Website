@@ -6,10 +6,6 @@ This is a dynamic todo list website where you can add and delete list items on t
 ## FEATURES--
 This web app is mobile responsive and is made with nodeJS.The database used is mongoDB.The frontend is designed with bootstrap and css.The list has an addition and deletion feature (*on clicking the checkbox.*)
 
-## SCREENSHOTS--
-![Annotation 2020-07-06 182829](https://user-images.githubusercontent.com/54092197/86595608-9734e280-bfb6-11ea-9fb0-2c216bcc607e.jpg)
-
-
 ## LINK--
 Find the link to the website here at--https://tranquil-gorge-68923.herokuapp.com/ 
 (*deployed with herokuapp*)
