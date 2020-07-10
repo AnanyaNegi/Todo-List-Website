@@ -1,4 +1,4 @@
-# TITILE--Todo List
+# TITLE--Todo List
 
 ## OVERVIEW--
 This is a dynamic todo list website where you can add and delete list items on the go.It works efficiently and helps you keep a log of your daily activities.
